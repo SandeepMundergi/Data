@@ -4,7 +4,6 @@
     "roles": [
       "Full Stack Developer",
       "Programmer"
-      
     ],
     "description": "I am a computer Science undergrad student with highly motivated and problem-solving skills seeking to learn new technologies and fulfill the needs of the organization.",
     "github": "https://github.com/Sandeepmundergi",
@@ -16,7 +15,7 @@
   },
   "skills": [
     {
-      "title": "Frontend edited by Sandeep",
+      "title": "Frontend",
       "skills": [
         {
           "name": "React Js",
@@ -121,17 +120,28 @@
     {
       "title": "Project 1",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut auctor ligula sit amet neque luctus, in mollis mi rhoncus. Duis et efficitur massa.",
-      "tags": ["React", "Node.js", "MongoDB"]
+      "tags": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ]
     },
     {
       "title": "Project 2",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut auctor ligula sit amet neque luctus, in mollis mi rhoncus. Duis et efficitur massa.",
-      "tags": ["Django", "PostgreSQL"]
+      "tags": [
+        "Django",
+        "PostgreSQL"
+      ]
     },
     {
       "title": "Project 3",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut auctor ligula sit amet neque luctus, in mollis mi rhoncus. Duis et efficitur massa.",
-      "tags": ["React", "Express.js", "MySQL"]
+      "tags": [
+        "React",
+        "Express.js",
+        "MySQL"
+      ]
     }
   ],
   "contact": {
