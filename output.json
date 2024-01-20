@@ -133,7 +133,7 @@
       "title": "Shrinky.in",
       "date": "Nov 2022 - Mar 2023",
       "description": "The importance of URL shortening at the time of sharing on various platforms. URLs are long, and unattractive, on most social platforms. A URL Shortener service creates a short URL in case of a long URL. Short URLs are exceedingly handy to share through SMS/tweets and they can be printed in books/magazines easily. In addition, it is easy and less error-prone to type a short URL when compared to its longer version.\n\nHere a methodology is proposed which is a web-based system using Django Framework that shortens the URL provided by the user. the proposed system permits the user to create a custom URL with a maximum character limit which is specified by the admin/host. The system also provides a QR code for the shortened URL and provide the user with end-to-end access to the URL controls. The generated URL has certain click limitations and time.",
-      "image": "shrinky",
+      "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/projectThumbnail/Shrinkyin.png",
       "tags": [
         "Python",
         "Django",
