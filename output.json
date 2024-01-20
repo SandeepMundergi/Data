@@ -23,11 +23,11 @@
         },
         {
           "name": "HTML",
-          "image": "https://github.com/SandeepMundergi/Data/blob/main/images/icons/html.svg"
+          "image": "https://img.icons8.com/color/48/html-5--v1.png"
         },
         {
           "name": "CSS",
-          "image": "https://github.com/SandeepMundergi/Data/blob/main/images/icons/css.svg"
+          "image": "https://img.icons8.com/color/48/css3.png"
         },
         {
           "name": "JavaScript",
@@ -94,7 +94,7 @@
       "skills": [
         {
           "name": "Git",
-          "image": "https://github.com/SandeepMundergi/Data/blob/main/images/icons/git.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/icons/git.svg"
         },
         {
           "name": "GitHub",
