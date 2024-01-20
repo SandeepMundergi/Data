@@ -129,7 +129,7 @@
   ],
   "projects": [
     {
-      "id": 9,
+      "id": 1,
       "title": "Shrinky.in",
       "date": "Nov 2022 - Mar 2023",
       "description": "The importance of URL shortening at the time of sharing on various platforms. URLs are long, and unattractive, on most social platforms. A URL Shortener service creates a short URL in case of a long URL. Short URLs are exceedingly handy to share through SMS/tweets and they can be printed in books/magazines easily. In addition, it is easy and less error-prone to type a short URL when compared to its longer version.\n\nHere a methodology is proposed which is a web-based system using Django Framework that shortens the URL provided by the user. the proposed system permits the user to create a custom URL with a maximum character limit which is specified by the admin/host. The system also provides a QR code for the shortened URL and provide the user with end-to-end access to the URL controls. The generated URL has certain click limitations and time.",
@@ -144,7 +144,22 @@
         "SQLite"
       ],
       "category": "web app",
-      "github": "https://github.com/SandeepR1305/Shrinky.in",
+      "github": "https://github.com/SandeepMundergi/Shrinky.in",
+      "webapp": ""
+    },
+    {
+      "id": 2,
+      "title": "Pharamacy Management System",
+      "date": "Aug 2021 - Mar 2022",
+      "description": "Pharamacy Management System using Python and PyQt5 modules",
+      "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/projectThumbnail/Pharmacy.png",
+      "tags": [
+        "Python",
+        "PyQt5",
+        "Oracle 10g"
+      ],
+      "category": "desktop app",
+      "github": "https://github.com/SandeepMundergi/Pharmacy-Management-System",
       "webapp": ""
     }
   ],
