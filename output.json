@@ -19,31 +19,31 @@
       "skills": [
         {
           "name": "React Js",
-          "image": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/icons/react.svg"
         },
         {
           "name": "HTML",
-          "image": "https://img.icons8.com/color/48/html-5--v1.png"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/icons/html.svg"
         },
         {
           "name": "CSS",
-          "image": "https://img.icons8.com/color/48/css3.png"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/icons/css.svg"
         },
         {
           "name": "JavaScript",
-          "image": "https://github.com/SandeepMundergi/Data/blob/main/images/icons/javascript.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/icons/javascript.svg"
         },
         {
           "name": "Bootstrap",
-          "image": "https://github.com/SandeepMundergi/Data/blob/main/images/icons/bootstrap.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconsbootstrap.svg"
         },
         {
           "name": "TailWind",
-          "image": "https://github.com/SandeepMundergi/Data/blob/main/images/icons/tailwind.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconstailwind.svg"
         },
         {
           "name": "Material UI",
-          "image": "https://github.com/SandeepMundergi/Data/blob/main/images/icons/matrialui.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconsmatrialui.svg"
         }
       ]
     },
@@ -52,23 +52,23 @@
       "skills": [
         {
           "name": "Python",
-          "image": "https://github.com/SandeepMundergi/Data/blob/main/images/icons/python.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconspython.svg"
         },
         {
           "name": "Java",
-          "image": "https://github.com/SandeepMundergi/Data/blob/main/images/icons/java.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconsjava.svg"
         },
         {
           "name": "C++",
-          "image": "https://github.com/SandeepMundergi/Data/blob/main/images/icons/cpp.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconscpp.svg"
         },
         {
           "name": "C",
-          "image": "https://github.com/SandeepMundergi/Data/blob/main/images/icons/c.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconsc.svg"
         },
         {
           "name": "Django",
-          "image": "https://github.com/SandeepMundergi/Data/blob/main/images/icons/django.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconsdjango.svg"
         }
       ]
     },
@@ -77,15 +77,15 @@
       "skills": [
         {
           "name": "Oracle",
-          "image": "https://github.com/SandeepMundergi/Data/blob/main/images/icons/oracle.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconsoracle.svg"
         },
         {
           "name": "MySQL",
-          "image": "https://github.com/SandeepMundergi/Data/blob/main/images/icons/mysql.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconsmysql.svg"
         },
         {
           "name": "SQLite",
-          "image": "https://github.com/SandeepMundergi/Data/blob/main/images/icons/sqlite.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconssqlite.svg"
         }
       ]
     },
@@ -94,35 +94,35 @@
       "skills": [
         {
           "name": "Git",
-          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/icons/git.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconsgit.svg"
         },
         {
           "name": "GitHub",
-          "image": "https://github.com/SandeepMundergi/Data/blob/main/images/icons/github.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconsgithub.svg"
         },
         {
           "name": "Eclipse",
-          "image": "https://github.com/SandeepMundergi/Data/blob/main/images/icons/eclipse.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconseclipse.svg"
         },
         {
           "name": "VS Code",
-          "image": "https://github.com/SandeepMundergi/Data/blob/main/images/icons/vscode.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconsvscode.svg"
         },
         {
           "name": "Intellij",
-          "image": "https://github.com/SandeepMundergi/Data/blob/main/images/icons/intellij.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconsintellij.svg"
         },
         {
           "name": "Postman",
-          "image": "https://github.com/SandeepMundergi/Data/blob/main/images/icons/postman.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconspostman.svg"
         },
         {
           "name": "Adobe XD",
-          "image": "https://github.com/SandeepMundergi/Data/blob/main/images/icons/adobexd.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconsadobexd.svg"
         },
         {
           "name": "Figma",
-          "image": "https://github.com/SandeepMundergi/Data/blob/main/images/icons/figma.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconsfigma.svg"
         }
       ]
     }
