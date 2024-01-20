@@ -146,23 +146,6 @@
       "category": "web app",
       "github": "https://github.com/SandeepR1305/Shrinky.in",
       "webapp": ""
-    },
-    {
-      "title": "Project 2",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut auctor ligula sit amet neque luctus, in mollis mi rhoncus. Duis et efficitur massa.",
-      "tags": [
-        "Django",
-        "PostgreSQL"
-      ]
-    },
-    {
-      "title": "Project 3",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut auctor ligula sit amet neque luctus, in mollis mi rhoncus. Duis et efficitur massa.",
-      "tags": [
-        "React",
-        "Express.js",
-        "MySQL"
-      ]
     }
   ],
   "contact": {
