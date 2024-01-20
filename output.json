@@ -35,15 +35,15 @@
         },
         {
           "name": "Bootstrap",
-          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconsbootstrap.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/icons/bootstrap.svg"
         },
         {
           "name": "TailWind",
-          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconstailwind.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/icons/tailwind.svg"
         },
         {
           "name": "Material UI",
-          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconsmatrialui.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/icons/matrialui.svg"
         }
       ]
     },
@@ -52,23 +52,23 @@
       "skills": [
         {
           "name": "Python",
-          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconspython.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/icons/python.svg"
         },
         {
           "name": "Java",
-          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconsjava.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/icons/java.svg"
         },
         {
           "name": "C++",
-          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconscpp.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/icons/cpp.svg"
         },
         {
           "name": "C",
-          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconsc.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/icons/c.svg"
         },
         {
           "name": "Django",
-          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconsdjango.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/icons/django.svg"
         }
       ]
     },
@@ -77,15 +77,15 @@
       "skills": [
         {
           "name": "Oracle",
-          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconsoracle.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/icons/oracle.svg"
         },
         {
           "name": "MySQL",
-          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconsmysql.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/icons/mysql.svg"
         },
         {
           "name": "SQLite",
-          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconssqlite.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/icons/sqlite.svg"
         }
       ]
     },
@@ -94,35 +94,35 @@
       "skills": [
         {
           "name": "Git",
-          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconsgit.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/icons/git.svg"
         },
         {
           "name": "GitHub",
-          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconsgithub.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/icons/github.svg"
         },
         {
           "name": "Eclipse",
-          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconseclipse.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/icons/eclipse.svg"
         },
         {
           "name": "VS Code",
-          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconsvscode.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/icons/vscode.svg"
         },
         {
           "name": "Intellij",
-          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconsintellij.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/icons/intellij.svg"
         },
         {
           "name": "Postman",
-          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconspostman.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/icons/postman.svg"
         },
         {
           "name": "Adobe XD",
-          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconsadobexd.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/icons/adobexd.svg"
         },
         {
           "name": "Figma",
-          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/iconsfigma.svg"
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/icons/figma.svg"
         }
       ]
     }
