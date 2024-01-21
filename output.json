@@ -191,6 +191,15 @@
       "grade": "7.86 CGPA",
       "desc": "I hold a Bachelor's degree in Computer Science and Engineering from Ballari Institute of Technology and Management, with a CGPA of 7.87. My coursework included Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks. Additionally, I completed a Full Stack Java and Soft Skills training at TNSIF, and a Web Development course at QSpiders Training, Ballari.I am ready to contribute to your team's success.",
       "degree": "Bachelor of Technology - BTech, Computer Science and Engineering"
+    },
+    {
+      "id": 1,
+      "img": "",
+      "school": "Bellary Independent PU College",
+      "date": "Jun 2018 - Mar 2019",
+      "grade": "67.33%",
+      "desc": "I attended Bellary Independent PU College in Ballari for my 2nd Pre-University Course (PUC) from June 2018 to March 2019. I specialized in Physics, Chemistry, Mathematics, and Computer Science (PCMC) and achieved an overall score of 67.33%.",
+      "degree": "PUC - Physics, Chemistry, Math, Computer Science"
     }
   ],
   "contact": {
