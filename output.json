@@ -163,6 +163,36 @@
       "webapp": ""
     }
   ],
+  "education": [
+    {
+      "id": 0,
+      "img": "https://www.pentonix.co.in/wp-content/uploads/2023/12/pentonix_logo_white_small.png",
+      "role": "Junior Software Developer Intern",
+      "company": "Pentonix E-learning Solutions",
+      "date": "Oct 2023 - Present",
+      "desc": "Working as Full-Stack Developer",
+      "skills": [
+        "Python",
+        "ReactJS",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "SharePoint"
+      ],
+      "doc": "https://drive.google.com/file/d/1PVpEpJaG-sv_-h5wPJIr-ftZqGJIKT4e/view?usp=sharing"
+    }
+  ],
+  "experiences": [
+    {
+      "id": 0,
+      "img": "https://bitm.edu.in//wp-content/uploads/2016/03/logobitm-1.jpg",
+      "school": "Ballari Institute of Technology and Management",
+      "date": "Aug 2019 - May 2023",
+      "grade": "7.86 CGPA",
+      "desc": "I hold a Bachelor's degree in Computer Science and Engineering from Ballari Institute of Technology and Management, with a CGPA of 7.87. My coursework included Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks. Additionally, I completed a Full Stack Java and Soft Skills training at TNSIF, and a Web Development course at QSpiders Training, Ballari.I am ready to contribute to your team's success.",
+      "degree": "Bachelor of Technology - BTech, Computer Science and Engineering"
+    }
+  ],
   "contact": {
     "email": "sandeepmundergi@gmail.com",
     "phone": "+91 1234567890",
