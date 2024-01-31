@@ -161,6 +161,20 @@
       "category": "desktop app",
       "github": "https://github.com/SandeepMundergi/Pharmacy-Management-System",
       "webapp": ""
+    },
+    {
+      "id": 3,
+      "title": "Portfolio",
+      "date": "Nov 2023 - Present",
+      "description": "Portfolio built using React js",
+      "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/projectThumbnail/portfolio.png",
+      "tags": [
+        "React JS",
+        "Github"
+      ],
+      "category": "web app",
+      "github": "https://sandeepmundergi.github.io/",
+      "webapp": ""
     }
   ],
   "experiences": [
