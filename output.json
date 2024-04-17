@@ -1,8 +1,10 @@
 {
   "Bio": {
     "name": "Sandeep Mundergi",
+    "hero": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/HeroImage.jpg",
     "roles": [
       "Full Stack Developer",
+      "Software Developer",
       "Programmer"
     ],
     "description": "I am a computer Science undergrad student with highly motivated and problem-solving skills seeking to learn new technologies and fulfill the needs of the organization.",
@@ -40,6 +42,10 @@
         {
           "name": "TailWind",
           "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/icons/tailwind.svg"
+        },
+        {
+          "name": "Sass",
+          "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/icons/sass.svg"
         },
         {
           "name": "Material UI",
@@ -145,13 +151,13 @@
       ],
       "category": "web app",
       "github": "https://github.com/SandeepMundergi/Shrinky.in",
-      "webapp": ""
+      "webapp": "https://drive.google.com/file/d/1QP0S4vne2VZ5ZUvFDMMIaZt1eIpcJ16G/view?usp=sharing"
     },
     {
       "id": 2,
       "title": "Pharamacy Management System",
       "date": "Aug 2021 - Mar 2022",
-      "description": "Pharamacy Management System using Python and PyQt5 modules",
+      "description": "This project introduces a Pharmacy Management System (PMS) developed using Python with PyQt5 for the user interface and Oracle 10g for database management. The PMS aims to streamline pharmaceutical operations by digitizing inventory management, medication tracking, and regulatory compliance processes. Through the integration of PyQt5 for a user-friendly interface and Oracle 10g for robust database management, the system offers efficient data handling and enhanced usability for pharmacy staff. Key features include real-time inventory updates, statistical analysis capabilities, and regulatory compliance measures, ensuring safe and effective pharmaceutical services.",
       "image": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/projectThumbnail/Pharmacy.png",
       "tags": [
         "Python",
@@ -160,7 +166,7 @@
       ],
       "category": "desktop app",
       "github": "https://github.com/SandeepMundergi/Pharmacy-Management-System",
-      "webapp": ""
+      "webapp": "https://drive.google.com/file/d/1QP0S4vne2VZ5ZUvFDMMIaZt1eIpcJ16G/view?usp=sharing"
     },
     {
       "id": 3,
@@ -179,12 +185,28 @@
   ],
   "experiences": [
     {
+      "id": 1,
+      "img": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/Company/c2cas.ico",
+      "role": "Software Developer",
+      "company": "C2C Advanced System",
+      "date": "Mar 2024 - Present",
+      "desc": "Working as Software Developer",
+      "skills": [
+        "Python",
+        "QT Creator",
+        "PyQt5",
+        "C++",
+        "C"
+      ],
+      "doc": "https://drive.google.com/file/d/1PVpEpJaG-sv_-h5wPJIr-ftZqGJIKT4e/view?usp=sharing"
+    },
+    {
       "id": 0,
-      "img": "https://www.pentonix.co.in/wp-content/uploads/2023/12/pentonix_logo_white_small.png",
+      "img": "https://raw.githubusercontent.com/SandeepMundergi/Data/main/images/Company/pentonix.png",
       "role": "Junior Software Developer Intern",
       "company": "Pentonix E-learning Solutions",
-      "date": "Oct 2023 - Present",
-      "desc": "Working as Full-Stack Developer",
+      "date": "Oct 2023 - Mar 2024",
+      "desc": "Engaged as a Full-Stack Developer.",
       "skills": [
         "Python",
         "ReactJS",
